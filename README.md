@@ -116,7 +116,7 @@ ll target/canal-dbkafka/bin  #startmy.sh为启动示例
 
 ```
 ### 启动说明
-
+已startmy.sh为例
 ```
 #!/bin/bash
 
