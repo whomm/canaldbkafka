@@ -1,6 +1,6 @@
 # canaldbkafka
 ## 简介
-canaldbkafka是连接canal和kafka的一个中间件。目的是实现数据库某个表格数据变更转变成消息流的形式，以便后续业务消费kafak的消息流。
+canaldbkafka是连接canal和kafka的一个中间件。目的是实现数据库某个表格数据变更转变成消息流的形式，以便后续业务消费kafka的消息流。 canal wiki:https://github.com/alibaba/canal/wiki
 ## 消息的类型
 canal的binlog 会被解析成以下3中类型的消息。其他的类型被过滤掉了。
 ### insert
