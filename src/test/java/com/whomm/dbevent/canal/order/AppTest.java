@@ -1,4 +1,4 @@
-package com.baidu.dbevent.canal.order;
+package com.whomm.dbevent.canal.order;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
